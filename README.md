@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋 안녕하세요 🥰
+2025.02.19
 <!--
 **139927/139927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
